@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 668d4138d3085144f88625f2362562b4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ProtonSwapAnimationZoomed
+    21300002: ProtonSwapAnimationZoomed_0
+    21300004: ProtonSwapAnimationZoomed_1
+    21300006: ProtonSwapAnimationZoomed_2
+    21300008: ProtonSwapAnimationZoomed_3
+    21300010: ProtonSwapAnimationZoomed_4
+    21300012: ProtonSwapAnimationZoomed_5
+    21300014: ProtonSwapAnimationZoomed_6
+    21300016: ProtonSwapAnimationZoomed_7
+    21300018: ProtonSwapAnimationZoomed_8
+    21300020: ProtonSwapAnimationZoomed_9
+    21300022: ProtonSwapAnimationZoomed_10
+    21300024: ProtonSwapAnimationZoomed_11
+    21300026: ProtonSwapAnimationZoomed_12
+    21300028: ProtonSwapAnimationZoomed_13
+    21300030: ProtonSwapAnimationZoomed_14
+    21300032: ProtonSwapAnimationZoomed_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ProtonSwapAnimationZoomed_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 546
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 546
+        width: 231
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 544
+        width: 196
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_3
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 546
+        width: 171
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_4
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 549
+        width: 133
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 554
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_6
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 554
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_7
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 564
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 277
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 278
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 282
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 278
+        width: 133
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 282
+        width: 169
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 278
+        width: 199
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 282
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonSwapAnimationZoomed_15
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 282
+        width: 261
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

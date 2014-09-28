@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 501b498da559b164496d0c6fdb76c47c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ProtonGlowAnimation
+    21300002: ProtonGlowAnimation_0
+    21300004: ProtonGlowAnimation_1
+    21300006: ProtonGlowAnimation_2
+    21300008: ProtonGlowAnimation_3
+    21300010: ProtonGlowAnimation_4
+    21300012: ProtonGlowAnimation_5
+    21300014: ProtonGlowAnimation_6
+    21300016: ProtonGlowAnimation_7
+    21300018: ProtonGlowAnimation_8
+    21300020: ProtonGlowAnimation_9
+    21300022: ProtonGlowAnimation_10
+    21300024: ProtonGlowAnimation_11
+    21300026: ProtonGlowAnimation_12
+    21300028: ProtonGlowAnimation_13
+    21300030: ProtonGlowAnimation_14
+    21300032: ProtonGlowAnimation_15
+    21300034: ProtonGlowAnimation_16
+    21300036: ProtonGlowAnimation_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ProtonGlowAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1177
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1177
+        width: 260
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1177
+        width: 261
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1177
+        width: 260
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1177
+        width: 260
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 904
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 904
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 906
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 904
+        width: 260
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 904
+        width: 261
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 629
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 628
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 629
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 629
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 629
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 349
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 349
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonGlowAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 349
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

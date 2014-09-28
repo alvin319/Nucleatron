@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 9950366d9fc624b4c82006d8479ea8ce
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ElectronGlowAnimation
+    21300002: ElectronGlowAnimation_0
+    21300004: ElectronGlowAnimation_1
+    21300006: ElectronGlowAnimation_2
+    21300008: ElectronGlowAnimation_3
+    21300010: ElectronGlowAnimation_4
+    21300012: ElectronGlowAnimation_5
+    21300014: ElectronGlowAnimation_6
+    21300016: ElectronGlowAnimation_7
+    21300018: ElectronGlowAnimation_8
+    21300020: ElectronGlowAnimation_9
+    21300022: ElectronGlowAnimation_10
+    21300024: ElectronGlowAnimation_11
+    21300026: ElectronGlowAnimation_12
+    21300028: ElectronGlowAnimation_13
+    21300030: ElectronGlowAnimation_14
+    21300032: ElectronGlowAnimation_15
+    21300034: ElectronGlowAnimation_16
+    21300036: ElectronGlowAnimation_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ElectronGlowAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1177
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1177
+        width: 260
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1177
+        width: 261
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1177
+        width: 260
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1177
+        width: 260
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 904
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 904
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 906
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 904
+        width: 260
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 904
+        width: 261
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 629
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 628
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 629
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 629
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 629
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 349
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 349
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElectronGlowAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 349
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

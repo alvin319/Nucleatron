@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: cb2b7d051a23e7f43b1df07cce1bc1b8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ProtonDeathAnimation
+    21300002: ProtonDeathAnimation_0
+    21300004: ProtonDeathAnimation_1
+    21300006: ProtonDeathAnimation_2
+    21300008: ProtonDeathAnimation_3
+    21300010: ProtonDeathAnimation_4
+    21300012: ProtonDeathAnimation_5
+    21300014: ProtonDeathAnimation_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ProtonDeathAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1156
+        width: 305
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonDeathAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1138
+        width: 277
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonDeathAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1136
+        width: 261
+        height: 293
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonDeathAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 869
+        width: 259
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonDeathAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 841
+        width: 238
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonDeathAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 833
+        width: 207
+        height: 221
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProtonDeathAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 677
+        width: 131
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
