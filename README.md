@@ -7,11 +7,16 @@ A two-person cooperative game in which players must dodge oppositely colored obs
 How to play
 Left sided player can use W,A,S,D to move and Left Control  to swap position. Right sided player can use Arrow keys to move and Right Control to swap position.
 				
-Created by Team Not Last Place
-Spencer Bowdon - Game Programming, Sound Effects, Background Music 
+Created by:
+
+Spencer Bowdon - Game Programming, Sound Effects, Background Music
+
 Eric Chao - Game Design, Game Programming
+
 Ka Seng (Jacky) Chou - Game Engine Programming
+
 Qicong (Alvin) Deng - Texture Design, Animation Programming, Artwork Design
+
 Grant Kjeldsen - Game Design, Artwork Design
 
 Tools used - Unity, Adobe Photoshop CS6
