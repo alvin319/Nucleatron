@@ -24,6 +24,8 @@ public class RespawnPoint : MonoBehaviour
         LevelManager.Instance.Proton.Death();
         LevelManager.Instance.Electron.Death();
         yield return new WaitForSeconds(0.7f);
+		Button.reset = true;
+		DeleteonDeath.die = true;
         LevelManager.Instance.Camera.transform.position = new Vector3(LevelManager.Instance.Camera.transform.position.x, transform.position.y, LevelManager.Instance.Camera.transform.position.z);
         LevelManager.Instance.Camera.ResetFreeze();
         LevelManager.Instance.Proton.transform.position = ProtonRespawnPosition.transform.position;

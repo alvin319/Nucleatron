@@ -50,7 +50,7 @@ public class BulletLinearShooter : MonoBehaviour
         {
             bullet = Instantiate(Resources.Load(NeutralPrefabPath), transform.position, Quaternion.identity) as GameObject;
         }
-        bullet.MoveTo(transform.position + new Vector3(ShootDirection.x, ShootDirection.y, 0) * 200f, 200f / Speed, 0f, EaseType);
+        bullet.MoveTo(transform.position + new Vector3(ShootDirection.x, ShootDirection.y, 0) * 2000f, 2000f / Speed, 0f, EaseType);
 		Destroy(bullet, LifeTime);
 		}
     }
